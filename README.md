@@ -8,7 +8,7 @@
 
 [4.视频的播放方法、装置、系统及计算机可读存储介质](https://kns.cnki.net/kcms2/article/abstract?v=jBOcPZekd6P0wqaW4SKBtC-pfoVFYXsWwN6bhCFUHRD3-XYdGAM0zVLI5tZu70BRVZKDbtSVir-PUExQo4kG8axBxRS6nxrhawMAG9Mr_SBVLBLipbhUTQ==&uniplatform=NZKPT&language=gb)
 
-[6.一种资源的展示方法、装置、电子设备及存储介质](https://kns.cnki.net/kcms2/article/abstract?v=jBOcPZekd6P0wqaW4SKBtC-pfoVFYXsWwN6bhCFUHRD3-XYdGAM0zRTwZfntKblPHfEUTxraUQAehfa9_OH0H9cmEyQd5KTId6XpVkuw1vFdTqnHo_jTsw==&uniplatform=NZKPT&language=gb)
+[5.一种资源的展示方法、装置、电子设备及存储介质](https://kns.cnki.net/kcms2/article/abstract?v=jBOcPZekd6P0wqaW4SKBtC-pfoVFYXsWwN6bhCFUHRD3-XYdGAM0zRTwZfntKblPHfEUTxraUQAehfa9_OH0H9cmEyQd5KTId6XpVkuw1vFdTqnHo_jTsw==&uniplatform=NZKPT&language=gb)
 
 [6.目标产品的反馈统计方法、装置、电子设备和存储介质](https://kns.cnki.net/kcms2/article/abstract?v=jBOcPZekd6P0wqaW4SKBtC-pfoVFYXsWwN6bhCFUHRD3-XYdGAM0zdYOxAwcaf1Bo4WSRzVvouRvhJYxDvj5LWRlPj4QhRMSX7GB0865Qyt8MWfniSh2cA==&uniplatform=NZKPT&language=gb)
 
