@@ -1,6 +1,6 @@
 # 专利统计
 
-[1.一种应用接力方法、装置、系统、电子设备、计算机可读存储介质及计算机程序产品](https://kns.cnki.net/kcms2/article/abstract?v=jBOcPZekd6P0wqaW4SKBtC-pfoVFYXsWwN6bhCFUHRD3-XYdGAM0zdYOxAwcaf1Bo4WSRzVvouRvhJYxDvj5LWRlPj4QhRMSX7GB0865Qyt8MWfniSh2cA==&uniplatform=NZKPT&language=gb)
+[1.一种应用接力方法、装置、系统、电子设备、计算机可读存储介质及计算机程序产品](https://kns.cnki.net/kcms2/article/abstract?v=jBOcPZekd6P0wqaW4SKBtC-pfoVFYXsWwN6bhCFUHRD3-XYdGAM0zYrXwUDdZ8si2hN4coU-pItJZNW8Se5ACLBcIPV6WayOxL2eHyHEDlJfLRQjtEV_fA==&uniplatform=NZKPT&language=gb)
 
 [2.一种视频播放方法、装置、终端设备及可读存储介质](https://kns.cnki.net/kcms2/article/abstract?v=jBOcPZekd6N1M32BHi-wyE8OkqMF0vslh9yidLbs4BgWRL9FG_XdiCj4wOqAXu3kjA3F68mLWWZkCDaeNfeh6TcuHwOpE5VdbwQgBG4OXE_JT7Cwtgfy7g==&uniplatform=NZKPT&language=gb)
 
